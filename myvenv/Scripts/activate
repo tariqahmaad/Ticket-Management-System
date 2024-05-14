@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\tariq\OneDrive\Documents\Code\Python\airport\Aip\myvenv"
+VIRTUAL_ENV="C:\Users\tariq\OneDrive\Documents\Code\Ticket-Management-System\myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
